@@ -58,3 +58,22 @@ examples/example_sdl2_metal/example_sdl2_metal
 examples/example_sdl2_opengl2/example_sdl2_opengl2
 examples/example_sdl2_opengl3/example_sdl2_opengl3
 examples/example_sdl2_sdlrenderer/example_sdl2_sdlrenderer
+
+# Binaries
+**/bin/
+**/bin-intermediate/
+
+
+# Visual Studio files and folder
+.vs/
+**.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
+
+# ajout de fichiers temps Mac
+.DS_Store
+
+# Xcode files and folders
+**.xcodeproj/
+**.xcworkspace/
